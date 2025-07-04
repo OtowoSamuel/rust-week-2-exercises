@@ -93,7 +93,7 @@ impl Wallet for TestWallet {
     fn balance(&self) -> u64 {
         // TODO: Return the wallet's confirmed balance
         self.confirmed
-        // Just return the balance we have stored
+        // I just return the balance we have stored
     }
 }
 
